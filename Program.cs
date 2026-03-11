@@ -1,4 +1,5 @@
 ﻿Console.WriteLine("Program do analizy liczb całkowitych.");
+Console.WriteLine("Dostępne operacje: average, max, min.");
 Console.WriteLine("Podaj liczby całkowite oddzielone przecinkami:");
 string? input = Console.ReadLine();
 
