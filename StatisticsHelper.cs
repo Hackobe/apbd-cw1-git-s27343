@@ -16,4 +16,24 @@ public static class StatisticsHelper
 
         return (double)sum / values.Length;
     }
+
+    public static int CalculateMax(int[] values)
+    {
+        if (values.Length == 0)
+        {
+            throw new ArgumentException("Tablica nie może być pusta.");
+        }
+
+        int max = values[0];
+
+        for (int i = 1; i < values.Length; i++)
+        {
+            if (values[i] > max)
+            {
+                max = values[i];
+            }
+        }
+
+        return max;
+    }
 }
