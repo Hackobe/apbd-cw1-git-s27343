@@ -1,0 +1,14 @@
+C:\Users\bkuba\Desktop\apbd-cw1-git-s27343\bin\Debug\net10.0\apbd-cw1-git-s27343.exe
+C:\Users\bkuba\Desktop\apbd-cw1-git-s27343\bin\Debug\net10.0\apbd-cw1-git-s27343.deps.json
+C:\Users\bkuba\Desktop\apbd-cw1-git-s27343\bin\Debug\net10.0\apbd-cw1-git-s27343.runtimeconfig.json
+C:\Users\bkuba\Desktop\apbd-cw1-git-s27343\bin\Debug\net10.0\apbd-cw1-git-s27343.dll
+C:\Users\bkuba\Desktop\apbd-cw1-git-s27343\bin\Debug\net10.0\apbd-cw1-git-s27343.pdb
+C:\Users\bkuba\Desktop\apbd-cw1-git-s27343\obj\Debug\net10.0\apbd-cw1-git-s27343.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bkuba\Desktop\apbd-cw1-git-s27343\obj\Debug\net10.0\apbd-cw1-git-s27343.AssemblyInfoInputs.cache
+C:\Users\bkuba\Desktop\apbd-cw1-git-s27343\obj\Debug\net10.0\apbd-cw1-git-s27343.AssemblyInfo.cs
+C:\Users\bkuba\Desktop\apbd-cw1-git-s27343\obj\Debug\net10.0\apbd-cw1-git-s27343.csproj.CoreCompileInputs.cache
+C:\Users\bkuba\Desktop\apbd-cw1-git-s27343\obj\Debug\net10.0\apbd-cw1-git-s27343.dll
+C:\Users\bkuba\Desktop\apbd-cw1-git-s27343\obj\Debug\net10.0\refint\apbd-cw1-git-s27343.dll
+C:\Users\bkuba\Desktop\apbd-cw1-git-s27343\obj\Debug\net10.0\apbd-cw1-git-s27343.pdb
+C:\Users\bkuba\Desktop\apbd-cw1-git-s27343\obj\Debug\net10.0\apbd-cw1-git-s27343.genruntimeconfig.cache
+C:\Users\bkuba\Desktop\apbd-cw1-git-s27343\obj\Debug\net10.0\ref\apbd-cw1-git-s27343.dll
