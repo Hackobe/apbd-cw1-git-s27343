@@ -3,16 +3,23 @@ string? input = Console.ReadLine();
 
 if (string.IsNullOrWhiteSpace(input))
 {
-    Console.WriteLine("Nie podano danych.");
+    Console.WriteLine("Nie podano żadnych liczb.");
     return;
 }
 
-string[] parts = input.Split(',');
-int[] values = new int[parts.Length];
-
-for (int i = 0; i < parts.Length; i++)
+try
 {
-    values[i] = int.Parse(parts[i].Trim());
-}
+    string[] parts = input.Split(',');
+    int[] values = new int[parts.Length];
 
-Console.WriteLine("Dane zostały poprawnie wczytane.");
+    for (int i = 0; i < parts.Length; i++)
+    {
+        values[i] = int.Parse(parts[i].Trim());
+    }
+
+    Console.WriteLine("Dane zostały poprawnie wczytane.");
+}
+catch
+{
+    Console.WriteLine("Błąd: podaj wyłącznie liczby całkowite oddzielone przecinkami.");
+}
