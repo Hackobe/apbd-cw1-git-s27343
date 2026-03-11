@@ -1,4 +1,5 @@
-﻿Console.WriteLine("Podaj liczby całkowite oddzielone przecinkami:");
+﻿Console.WriteLine("Program do analizy liczb całkowitych.");
+Console.WriteLine("Podaj liczby całkowite oddzielone przecinkami:");
 string? input = Console.ReadLine();
 
 if (string.IsNullOrWhiteSpace(input))
