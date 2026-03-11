@@ -36,4 +36,24 @@ public static class StatisticsHelper
 
         return max;
     }
+
+    public static int CalculateMin(int[] values)
+    {
+        if (values.Length == 0)
+        {
+            throw new ArgumentException("Tablica nie może być pusta.");
+        }
+
+        int min = values[0];
+
+        for (int i = 1; i < values.Length; i++)
+        {
+            if (values[i] < min)
+            {
+                min = values[i];
+            }
+        }
+
+        return min;
+    }
 }
